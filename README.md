@@ -4,6 +4,7 @@ A text based game of Tic Tac Toe using C++ coded from scratch.
 To run, download the repo and unzip the folder. 
 
 Using command line, change directory to TicTacToe/DerivedData/TicTacToe/Build/Products/Debug/
+<br>
 Once inside of the directory, run program with ./TicTacToe
 
 The program will now run, prompting for two names for the players. The turns alternate as in a normal game of Tic Tac Toe,
